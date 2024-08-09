@@ -12,7 +12,7 @@
 	<artifactId>kafkaconsumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafkaconsumer</name>
-	<description>Kafka Producer</description>
+	<description>Kafka Consumer</description>
 	<url/>
 	<licenses>
 		<license/>
